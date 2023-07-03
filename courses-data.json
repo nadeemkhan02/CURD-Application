@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "5b21ca3eeb7f6fbccd471815",
+    "name": "Angular",
+    "author": "Mosh",
+    "price": 10,
+    "tags": [
+      "angular",
+      "frontend"
+    ],
+    "isPublished": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471816",
+    "name": "Html",
+    "author": "Mosh",
+    "price": 12,
+    "tags": [
+      "html",
+      "frontend"
+    ],
+    "isPublished": false
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471817",
+    "name": "Python",
+    "author": "Nadeem",
+    "price": 17,
+    "tags": [
+      "python"
+    ],
+    "isPublished": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471819",
+    "name": "Java",
+    "author": "Jack",
+    "price": 13,
+    "tags": [
+      "java",
+      "backend"
+    ],
+    "isPublished": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181a",
+    "name": "Django",
+    "author": "Mosh",
+    "price": 20,
+    "tags": [
+      "django",
+      "backend"
+    ],
+    "isPublished": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181b",
+    "name": "flask",
+    "author": "Jason",
+    "price": 16,
+    "tags": [
+      "flask",
+      "backend"
+    ],
+    "isPublished": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181e",
+    "name": "Spring Boot",
+    "author": "Mosh",
+    "price": 10,
+    "tags": [
+      "springtboot",
+      "backend"
+    ],
+    "isPublished": true
+  }
+]
